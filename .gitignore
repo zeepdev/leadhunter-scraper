@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+historico/*.xlsx
+.env
+.DS_Store
